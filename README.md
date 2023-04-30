@@ -1,3 +1,3 @@
 # Advent of Code
 
-My solutions
+My solutions of adventofcode.com
